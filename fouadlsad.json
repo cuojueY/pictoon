@@ -1,4 +1,5 @@
 {
     "isShowDiscount":false,
-    "isLatestVersion":false
+    "isLatestVersion":false,
+    "isShowOldSub":false
 }
